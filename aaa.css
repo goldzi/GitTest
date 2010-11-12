@@ -15,4 +15,7 @@ root {
     display: block;
     color: white;
 }
+main {
+    margin-right: 10px;
+}
 
